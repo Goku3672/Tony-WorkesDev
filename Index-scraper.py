@@ -65,7 +65,7 @@ def main(url, username="none", password="none"):
 		x += 1
 		
 
-index_link ="https://www.suup.workers.dev/2:/[Judas]%20Webrip%20batches/[Judas]%20100-man%20no%20Inochi%20no%20Ue%20ni%20Ore%20wa%20Tatteiru%20(Season%201)%20[1080p][HEVC%20x265%2010bit][Multi-Subs]/"
+index_link ="https://skywalker.chiragmakwana3672.workers.dev/0:/Upload%20One/"
 username = "username-default" #optional
 password ="password-default"  #optional
 				
